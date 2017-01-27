@@ -1,0 +1,2 @@
+In this project, based on the twitter network, we gauge the popularity of candidates contesting in the US Presidential Elections.
+We also analyse trends among candidates belonging to a particular party and any common followers between them.  

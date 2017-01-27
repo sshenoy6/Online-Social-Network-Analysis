@@ -1,0 +1,1 @@
+In this project, based on the posts liked by the user on Facebook, we provide suggestions for pages or profiles that they may like.
